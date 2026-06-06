@@ -5,15 +5,9 @@ This project implements a stock price prediction system using CNN-LSTM and LSTM 
 Features
 
 Data preprocessing and normalization
-
 Feature engineering (RSI, MACD, moving averages, volatility, returns)
-
 CNN-LSTM and Vanilla LSTM model implementations
-
 ARIMA baseline comparison
-
 Performance evaluation using RMSE, MAE, R², and MAPE
-
 Future stock price forecasting and visualization
-
-Tech Stack
+Designed a novel five-way stock forecasting framework combining CNN-LSTM, return-based prediction, price reconstruction, BatchNormalization, and 30-day iterative forecasting for enhanced financial time-series prediction.
